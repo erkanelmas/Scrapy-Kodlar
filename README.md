@@ -1,5 +1,5 @@
 # Scrapy-Kodları
-badips, urlhaus ve vxvault sitelerinin parse etme kodları
+badips, urlhaus ve vxvault sitelerinin parse etme kodlarını içerir.
 
 Proje oluşturma adımları:
 https://doc.scrapy.org/en/latest/topics/spiders.html
