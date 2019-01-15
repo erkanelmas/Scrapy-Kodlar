@@ -4,7 +4,7 @@ badips, urlhaus ve vxvault sitelerinin parse etme kodları
 Proje oluşturma adımları:
 https://doc.scrapy.org/en/latest/topics/spiders.html
 
-Parse Edilen Sayfalar:
+Parse Edilen Siteler:
 
 https://www.badips.com/info
 
