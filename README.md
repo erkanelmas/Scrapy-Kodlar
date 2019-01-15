@@ -1,6 +1,11 @@
 # Scrapy-Kodları
 badips, urlhaus ve vxvault sitelerinin parse etme kodları
 
+Proje oluşturma adımları:
+https://doc.scrapy.org/en/latest/topics/spiders.html
+
+Parse Edilen Sayfalar:
+
 https://www.badips.com/info
 
 https://urlhaus.abuse.ch/browse/page/0/
